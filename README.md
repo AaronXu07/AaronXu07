@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **C++, Java, Python, Data Structures, Algorithms, Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/@AaronXu2](https://replit.com/@AaronXu2)
+- 👨‍💻 All of my projects are available at [https://replit.com/@AaronXu2](https://replit.com/@AaronXu2) and [https://replit.com/@aaronxu07](https://replit.com/@aaronxu07).
 
 - 📫 How to reach me **aaronssupmail@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
