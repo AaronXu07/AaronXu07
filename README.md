@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aaron Xu</h1>
 <h3 align="center">A passionate high-school programmer.</h3>
 
-- 🔭 I’m currently working on **competitive coding practice**
+- 🔭 I’m currently working on **competitive coding practice**.
 
 - 🌱 I’m currently learning **C++, Java, Python, Data Structures, Algorithms, Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@AaronXu2](https://replit.com/@AaronXu2) and [https://replit.com/@aaronxu07](https://replit.com/@aaronxu07).
 
-- 📫 How to reach me **aaronssupmail@gmail.com**
+- 📫 How to reach me: **aaronssupmail@gmail.com**
 
 <p align="left">
 </p>
