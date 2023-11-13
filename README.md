@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **competitive coding practice**.
 
-- 🌱 I’m currently learning **C++, Java, Python, Data Structures, Algorithms, Machine Learning.**
+- 🌱 I’m currently learning **C++, Java, Python, Data Structures, Algorithms, Computer Vision, Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@AaronXu2](https://replit.com/@AaronXu2) and [https://replit.com/@aaronxu07](https://replit.com/@aaronxu07).
 
