@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **competitive coding practice**
 
-- 🌱 I’m currently learning **C++/C, Java, Python, Data Structures, Algorithms, Computer Vision, Machine Learning.**
+- 🌱 I’m currently learning **C++/C, Java, Python, Data Structures, Algorithms, Computer Vision, Full Stack Web Development, Machine Learning.**
 
 - 📫 How to reach me **aaronssupmail@gmail.com**
 
