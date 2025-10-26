@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Xu</h1>
-<h3 align="center">A passionate high-school programmer.</h3>
+<h3 align="center">Software Engineering Student at the University of Waterloo</h3>
 
 - 🔭 I’m currently working on **competitive coding practice**
 
