@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aaron Xu</h1>
+<h1 align="center">Hi, I'm Aaron Xu</h1>
 <h3 align="center">Software Engineering Student at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on **competitive coding practice**
+- I’m currently working on **competitive coding practice**
 
-- 🌱 I’m currently learning **C++/C, Java, Python, Data Structures, Algorithms, Computer Vision, Full Stack Web Development, Machine Learning.**
+- I’m currently learning **C++/C, Java, Python, Data Structures, Algorithms, Computer Vision, Full Stack Web Development, Machine Learning.**
 
-- 📫 How to reach me **aaronssupmail@gmail.com**
+- How to reach me: **aaronssupmail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
