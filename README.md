@@ -3,9 +3,9 @@
 
 - I’m currently working on **competitive coding practice**
 
-- I’m currently learning **C++/C, Java, Python, Data Structures, Algorithms, Computer Vision, Full Stack Web Development, Machine Learning.**
+- I’m currently learning **C++/C, Python, Data Structures, Algorithms, Computer Vision, Full Stack Web Development, Machine Learning.**
 
-- How to reach me: **aaronssupmail@gmail.com**
+- How to reach me: **a237xu@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
